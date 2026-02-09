@@ -1,6 +1,6 @@
 # Q&A Platform for Programming Issues
 A Q&A platform where programmers can post questions, reply with solutions, and discuss coding topics.
-Users can create accounts, manage their posts, and participate in threaded discussions with nested replies.
+Users can create accounts, manage their posts, and participate in discussions with nested replies.
 The platform includes a rating system for upvoting or downvoting replies, a search feature to filter posts by keyword or user, and admin moderation tools for managing users and content.
 
 ## How to Run the Application
